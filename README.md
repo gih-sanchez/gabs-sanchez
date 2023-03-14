@@ -5,7 +5,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" style="width:20px;height:20px;">
 </a>  
 <a href="twitter.com/Sg1ovana_" align="center">
-  <img=src="https://cdn-icons-png.flaticon.com/512/733/733579.png" style="width:20px;height:20px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" style="width:20px;height:20px;">
 </a>
 
 **About me:** <br>
