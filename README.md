@@ -2,6 +2,8 @@
 **About me:** <br>
 
 - **Contats:**
+- 📚 | **Learning:**
+  - <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width = "20px" align = "center"> HTML;
 
 <a href="mailto:giovana.mainente@sptech.school?subject=Contato%20via%20GitHub" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-loopstyle="link" data-safelink="true" align="center">
  
