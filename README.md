@@ -8,9 +8,6 @@
     - <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" style="width:25px;height=25px;" ></a> E-mail
     - Others... <br>
 
-
-
-
 - **Learning:**
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width = "20px" align = "center"> HTML
   
